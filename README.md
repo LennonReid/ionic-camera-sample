@@ -1,7 +1,6 @@
 # WEB DEMO
 https://ionic-camera-sample.vercel.app/
 
-Run the App​
 # Run the App​
 ```bash
 ionic serve
