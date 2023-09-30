@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'photo-gallery',
+  appName: 'ionic-camera-sample',
   webDir: 'www',
   server: {
     androidScheme: 'https'
